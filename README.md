@@ -1,5 +1,5 @@
 # auto-run-bat
-[realesrgan-ncnn](https://github.com/xinntao/Real-ESRGAN)を使ってimg , videoをcuiできないょぅι゛ょでも簡単にアップスケールできるようにするやつ
+[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)を使ってimg , videoをcuiできないょぅι゛ょでも簡単にアップスケールできるようにするやつ
 
 realesrgan-ncnn-vulkan_auto-run.bat はそのままぶち込めば使えるよ！！
 
